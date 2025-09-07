@@ -1,0 +1,6 @@
+pdfplumber
+pandas
+os
+streamlit as st
+tempfile
+io
